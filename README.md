@@ -2,7 +2,8 @@
 
 A responsive Home Food Delivery web application built with React, TypeScript, and Vite.
 
-![image](https://github.com/user-attachments/assets/5bfe96cd-e17a-405f-b501-e8a4b7f50c2b)
+![image](https://github.com/user-attachments/assets/fddc1304-4918-4758-b770-c1fef6e18bdf)
+
 
 
 ## Features
